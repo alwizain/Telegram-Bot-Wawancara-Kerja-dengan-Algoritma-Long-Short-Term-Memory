@@ -1,6 +1,6 @@
 # Telegram-Bot-Wawancara-Kerja-dengan-Algoritma-Long-Short-Term-Memory
 
-![](https://raw.githubusercontent.com/alwizain/Bukupedia/master/Cover%20Buku.png)
+![](https://raw.githubusercontent.com/alwizain/Bukupedia/master/cvr-Telegram%20Bot%20Wawancara%20Kerja%20dengan%20Algoritma%20Long%20Short%20Term%20Memory.png)
 
 ### Informasi Buku
 
